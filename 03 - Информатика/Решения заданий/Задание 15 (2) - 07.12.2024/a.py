@@ -1,0 +1,1 @@
+o=list;h=str;z=open;b=map;l=abs;w=sum;e=len;s=sorted;print(h((p:=[o(b(int,x.split())) for x in z("i","r").readlines()]))[:0],w([l(s((a:=[x[0] for x in p]))[i]-s((b:=[x[1] for x in p]))[i]) for i in range(e(p))]),'\n',sum([x*b.count(x) for x in a]),sep

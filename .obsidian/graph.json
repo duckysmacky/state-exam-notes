@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#информатика  ",
+      "color": {
+        "a": 1,
+        "rgb": 15806207
+      }
+    },
+    {
+      "query": "tag:#математика  ",
+      "color": {
+        "a": 1,
+        "rgb": 3517171
+      }
+    },
+    {
+      "query": "tag:#русский ",
+      "color": {
+        "a": 1,
+        "rgb": 15835746
+      }
+    },
+    {
+      "query": "tag:#умскул/дз  ",
+      "color": {
+        "a": 1,
+        "rgb": 14914229
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3037405133059627,
+  "close": true
+}

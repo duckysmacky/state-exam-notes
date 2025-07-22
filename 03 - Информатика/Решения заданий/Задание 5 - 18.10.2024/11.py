@@ -1,0 +1,12 @@
+def alg(n):
+    n2 = bin(n)[2:]
+    n2 += n2[-1]
+    n2 += str(sum(map(int, bin(n)[2:])) % 2)
+    n2 += str(sum(map(int, n2)) % 2)
+    return int(n2, 2)
+
+vals = []
+for n in range(1000):
+    R = alg(n)
+    if R > 92: vals.append(R)
+print(min(vals))

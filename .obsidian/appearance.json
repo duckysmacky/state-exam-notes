@@ -1,0 +1,10 @@
+{
+  "accentColor": "#8a97ff",
+  "cssTheme": "",
+  "nativeMenus": false,
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "custom-rainbow-colors"
+  ],
+  "theme": "obsidian"
+}
